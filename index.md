@@ -1,3 +1,11 @@
+# Kushagra Govil's First CS193 Homework
+
+Great things about CS193
+- The teachers are cool
+- It seems to be a fun class overall
+- Its grading curve seems more gracious than that of other classes
+- The class provides me a chance to get to know other people in my major
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
